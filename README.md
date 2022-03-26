@@ -1,9 +1,7 @@
 # refractor
 
-## ![VS Code Screenshot](/photos/screenshot.png)
-
-### Was given some code that wasn't very clean. Wasn't easy to follow along, used semantic HTML to make it easier to read. Changed element name, element class and id name, and image names. Adjusted the CSS accordingly to the HTML changes.
+### Refactored a website's code with the features still working but it was difficult to read. By implementing semantic HTML, I was able to get rid of a lot of the divs that was previously used. Changes made include: changing element names, changing element class and id names, and adjusting the CSS accordingly to the HTML changes.These changes make it easier to read and know where the code goes on the website.
 
 # Languages Used
 
-### Only HTML and CSS was used in this project
+### HTML and CSS were used in this project
