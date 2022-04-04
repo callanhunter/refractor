@@ -5,3 +5,13 @@
 # Languages Used
 
 ### HTML and CSS were used in this project
+
+# Usage
+
+### ![Screenshot of HTML](assets/images/screenshot.png)
+
+### Here is a screenshot of the HTML. As you can see, semantic HTML was used and it's easier to see where class and id elements belong on the website. As stated above, mostly divs were used beforehand.
+
+# Link
+
+### https://github.com/callanhunter/refractor
